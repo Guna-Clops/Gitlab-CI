@@ -1,2 +1,2 @@
-# Gitlab-CI
-Creating a pipeline in gitlab-ci
+# Terraform
+Created aws resources using terraform.
